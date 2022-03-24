@@ -1,0 +1,50 @@
+---
+layout: single
+title:  "Welcome to Jekyll!"
+date:   2020-04-08 10:46:03 +0900
+categories: jekyll update
+---
+
+
+Header
+# 제목
+## 소제목
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+*bold*
+
+**bold**
+
+_bold_
+
+__bold__
+
+* item1
+* item2
+* item3
+
+0. item0
+1. item1
+2. item2
+4. item3
+
+---
+
+# banana
+바나나는 맛있다.
+
+```
+int main() {
+	printf("Hello World!\n");
+	return 0;
+}
+```
+
+바나나 포스트는 `_posts` 폴더 밑에 있다.  가나다라
+
+abcd \
+efg
+
